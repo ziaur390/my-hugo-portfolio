@@ -6,3 +6,4 @@ theme = "ananke"
 [params]
   author = "Ziaur Rahman"
   description = "MLOps Portfolio"
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke/v2"]
